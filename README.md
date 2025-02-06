@@ -8,7 +8,5 @@
 
 
 **4-Bit Full Adder ScreenShot**
-![Screenshot 2025-02-05 at 10 17 17 PM](https://github.com/user-attachments/assets/0f43654c-ba5a-4705-ab7d-570487ddd41c)
 
-
-
+![Screenshot 2025-02-05 at 10 18 53 PM](https://github.com/user-attachments/assets/44db6e6c-67a9-4aac-a55c-e88a1e2ecf18)
